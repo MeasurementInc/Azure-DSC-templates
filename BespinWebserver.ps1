@@ -1,4 +1,4 @@
-﻿Configuration bespin_webserver
+﻿Configuration BespinWebserver
 {
 
     Import-DscResource -ModuleName PSDesiredStateConfiguration
@@ -106,4 +106,4 @@
     }
 }
 
-bespin_webserver
+BespinWebserver
